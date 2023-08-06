@@ -1,2 +1,2 @@
 # AntonioCodes
-C++ and Python object-oriented parallel codes
+C++ object-oriented parallel codes
